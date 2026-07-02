@@ -1,4 +1,4 @@
-# SciCompPy-project
+# Quantized Spin Pumping in Majorana Nanowires
 
 ## Cel projektu
 Obliczanie konduktancji półprzewodnika ze wzbudzonym naprzewodnictwem w zewnętrznym polu magnetycznym. Zapis danych do pliku hdf5 oraz opcja samego odczytu i rysowania wykresów z pliku. 
